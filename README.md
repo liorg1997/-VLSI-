@@ -1,0 +1,2 @@
+# -VLSI-
+Serially read ADC
